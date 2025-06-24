@@ -1,0 +1,72 @@
+<!DOCTOTYPE html>
+<html>
+<body>
+
+<h1>Flipper GDPS</h1>
+<br>
+<h3>The official website</h3>
+<br>
+<p>Level requests:</p>
+
+<form
+  action="https://formspree.io/f/mgvypwjy"
+  method="POST"
+>
+  <label>
+    Your discord user:
+    <input type=text" name="discord user">
+  </label>
+<br>
+<label>
+    Level creator:
+    <input type=text" name="level creator">
+  </label>
+<br>
+<label>
+    Level name:
+    <input type=text" name="level name">
+  </label>
+<br>
+  <label>
+    Level id:
+    <input type=text" name="level id">
+  </label>
+<br>
+<label>
+    Video link (for hard demons and harder):
+    <input type=text" name="video">
+  </label>
+<br>
+<label>
+    Additional note to a moderator:
+    <input type=text" name="note">
+  </label>
+<br>
+
+
+
+  <button type="submit">Request</button>
+</form><br><br><br>
+<h3>links:</h3>
+<a href="https://flipper.ps.fhgdps.com/dashboard/">
+  <button>Tools page</button>
+</a>
+<a href="https://gdpshub.com/gdps/4226">
+  <button>GDPS Hub</button>
+</a>
+<a href="https://flipper.ps.fhgdps.com/dashboard/stats/modList.php">
+  <button>Current moderator list</button>
+</a>
+
+<p>Download us</p>
+<a href="https://drive.google.com/file/d/1PPwIAPrAl7oz1pfRcn38mvArppjf2Tqo/view?usp=sharing">
+  <button>Android</button>
+</a>
+<a href="https://drive.google.com/file/d/1CRohcbN9hZAaeYDzj6ww7mieAXMxtjD9/view?usp=sharing">
+  <button>Windows</button>
+</a>
+
+
+</html>
+</body>
+
